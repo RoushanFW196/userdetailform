@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "username": "roushan",
+      "Address": "Bihar",
+      "Age": "25",
+      "department": "Graphics",
+      "Salary": "450000",
+      "file": "Screenshot (2).png",
+      "id": 1
+    }
+  ]
+}
