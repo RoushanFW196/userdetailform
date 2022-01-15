@@ -8,6 +8,15 @@
       "Salary": "450000",
       "file": "Screenshot (2).png",
       "id": 1
+    },
+    {
+      "username": "rahul",
+      "Address": "Bihar sharif",
+      "Age": "20",
+      "department": "Graphics",
+      "Salary": "120000",
+      "file": "Screenshot (50).png",
+      "id": 2
     }
   ]
 }
